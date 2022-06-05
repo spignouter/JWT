@@ -47,8 +47,8 @@ export default class TopBar extends React.Component{
         <div className={styles.f}><a href="https://www.google.com/"><img alt="" src="f.png"/></a></div>
         <div className={styles.t}><a href="https://www.google.com/"><img alt="" src="t.png"/></a></div>
         <div className={styles.ins}><a href="https://www.google.com/"><img alt="" src="ins.png"/></a></div>
-        {/* <div className={styles.log_in}><a href="https://www.google.com/">Log in</a></div>
-        <div className={styles.sign_in}><a href="https://www.google.com/">Sign in</a></div> */}
+        <div className={styles.log_in}><a href="https://www.google.com/">Log in</a></div>
+        <div className={styles.sign_in}><a href="https://www.google.com/">Sign in</a></div>
         {/* <button className={styles.btm} onclick={this.}>авторизация</button> */}
     </div>
 
