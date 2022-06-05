@@ -1,0 +1,67 @@
+C:\Users\Сss38\Downloads\React\my-app
+
+http://localhost:3000/
+https://ru.reactjs.org/docs/create-a-new-react-app.html
+
+React JS Быстрый Курс 2020
+https://www.youtube.com/watch?v=xJZa2_aldDs
+
+https://www.youtube.com/watch?v=GNrdg3PzpJQ
+
+Продвинутая JWT авторизация на React и Node js. Access, refresh, активация по почте
+https://www.youtube.com/watch?v=fN25fMQZ2v0
+
+React + NodeJS. Fullstack приложение за 3 часа
+https://www.youtube.com/watch?v=ivDjWYcKDZI
+
+Правильные билдордеры за альянс
+http://wc3.3dn.ru/publ/hum/hum_vs_all/pravilnaja_zastrojka_bazy_za_aljans/11-1-0-1283
+
+МЕТОДОЛОГИЯ ДОКУМЕНТАЦИЯ
+https://ru.bem.info/methodology/
+
+
+Соглашение по именованию CSS
+https://ru.bem.info/methodology/naming-convention/#%D0%A1%D1%82%D0%B8%D0%BB%D1%8C-%D0%93%D0%B0%D1%80%D1%80%D0%B8-%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D1%81%D0%B0
+https://ru.bem.info/methodology/css/
+
+
+Стилизация React-компонентов
+https://www.cat-in-web.ru/10-ways-to-style-react/
+
+Задача о рюкзаке
+https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BE_%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA%D0%B5
+https://habr.com/ru/post/222577/
+https://neerc.ifmo.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BE_%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA%D0%B5
+http://www.isa.ru/proceedings/images/documents/2019-69-2/54-64.pdf
+
+1. Redux и React. Все о Redux. Понятная теория для всех. React + redux.
+https://www.youtube.com/watch?v=5Qtqzeh5FeM
+
+2. Redux и React. State, reducer, action + redux hooks useDispatch и useSelector
+https://www.youtube.com/watch?v=Dzzeir85i3c
+
+Getting Started with React Redux
+https://react-redux.js.org/api/provider
+
+Состояние и жизненный цикл
+https://ru.reactjs.org/docs/state-and-lifecycle.html
+
+Состояние компонента
+https://ru.reactjs.org/docs/faq-state.html
+
+Привет, мир React 
+https://ru.reactjs.org/docs/hello-world.html
+
+Интервью с Дэном Абрамовым: React 17, Suspense, Redux, холивары
+https://habr.com/ru/company/jugru/blog/545024/
+
+Маршрутизация React 
+https://learn-reactjs.ru/training-project/routing
+
+Справочник по JavaScript
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference
+
+Условный рендеринг
+https://ru.reactjs.org/docs/conditional-rendering.html
+

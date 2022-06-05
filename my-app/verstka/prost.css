@@ -1,0 +1,61 @@
+
+#Linkedin{
+    position: absolute;
+    width: 148px;
+    height: 46px;
+    left: 194px;
+    top: 206px;
+    }
+
+#LinkedinGroup{
+    position: absolute;
+    width: 99px;
+    height: 18px;
+    left: 34px;
+    top: 14px; 
+}
+
+#IconLinkedin{
+position: absolute;
+width: 13.81px;
+height: 14px;
+left: 1px;
+top: 1px;
+
+font-family: 'FontAwesome';
+font-size: 14px;
+line-height: 16px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+
+#TextLinkedin{
+position: absolute;
+width: 55.25px;
+height: 18px;
+left: 24px;
+top: 1px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+#LinkedinRectangle{
+position: absolute;
+width: 148px;
+height: 46px;
+left: 1px;
+top: 1px;
+z-index: -1;
+background: #0077B5;
+}

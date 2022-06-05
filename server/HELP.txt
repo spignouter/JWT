@@ -1,0 +1,52 @@
+C:\Users\Css38\Downloads\React\server
+
+https://github.com/spignouter/React/tree/master
+echo "# JWT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/spignouter/JWT.git
+git push -u 
+Token:
+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 
+git push --force origin https://github.com/spignouter/JWT.git
+
+Запуск mongodb перейти в дерикторию и выыполнить 
+cd C:\Program Files\MongoDB\Server\5.0\bin
+mongo
+
+
+HOST
+localhost:27017
+CLUSTER
+Standalone
+EDITION
+MongoDB 5.0.8 Community
+
+https://www.mongodb.com/ 
+
+MongoDB¶ Подключение
+https://nodejsdev.ru/doc/mongodb/
+
+Backend для начинающих на node.js express. RESTfull API, CRUD, HTTP
+https://www.youtube.com/watch?v=tKM44vPHU0U
+
+Продвинутая JWT авторизация на React и Node js. Access, refresh, активация по почте
+https://www.youtube.com/watch?v=fN25fMQZ2v0
+https://github.com/utimur/fullstack-jwt-auth/tree/master/server
+
+
+
+Простая авторизация на NODE JS. Роли пользователя. Express и MongoDB. JWT Access Token, bcrypt
+https://www.youtube.com/watch?v=d_aJdcDq6AY
+
+https://www.mongodb.com/try/download/community?tck=docs_server
+
+https://webformyself.com/mongodb-urok-1-ustanovka-mongodb/
+
+О файле .gitignore
+https://tyapk.ru/blog/post/gitignore
+
+Изучите Git с помощью Bitbucket Cloud
+https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud

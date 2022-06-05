@@ -1,0 +1,295 @@
+.Footer {
+    position: absolute;
+    width: 1366px;
+    height: 380px;
+    left: 0px;
+    top: 750px;
+    flex-shrink: 0;
+    background: #2AA9E6;
+}
+
+.About {
+    position: absolute;
+    width: 213.91px;
+    height: 152px;
+    left: 74px;
+    top: 70px;
+}
+
+.AboutHeader {
+    position: absolute;
+    width: 121.04px;
+    height: 34px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+
+.SocialsFooter {
+    position: absolute;
+    width: 213.91px;
+    height: 46px;
+    top: 106px;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+}
+
+.UsefulLinks {
+    position: absolute;
+    width: 179px;
+    height: 193px;
+    left: 387px;
+    top: 70px;
+}
+
+.LinksFooter {
+    width: 71px;
+    height: 18px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.AboutFooter {
+    width: 179px;
+    height: 151px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: capitalize;
+    display: table;
+    margin: 0 auto;
+    white-space: pre-line;
+    word-wrap: break-word;
+    color: #FFFFFF;
+}
+
+.MostPopular {
+    position: absolute;
+    width: 318px;
+    height: 246px;
+    left: 592px;
+    top: 70px;
+}
+
+.MostPopularHeader {
+    position: absolute;
+    width: 237px;
+    height: 18px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.MostPopularOne {
+    position: absolute;
+    width: 318px;
+    height: 90px;
+}
+
+.MostPopularEllipseOne {
+    z-index: 1;
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    background: #171821;
+    border-radius: 50%;
+    top: 42px;
+}
+
+.MostPopularTextOne {
+    position: absolute;
+    width: 214px;
+    height: 59px;
+    left: 104px;
+    top: 45px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+
+.MostPopularAvtorOne {
+    position: absolute;
+    left: 32.7%;
+    right: 8.18%;
+    top: 125.22%;
+    bottom: 0%;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #54555E;
+}
+
+.MostPopularTwo {
+    position: absolute;
+    width: 318px;
+    height: 90px;
+    top: 156px;
+}
+
+.MostPopularEllipseTwo {
+    z-index: 1;
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    background: #171821;
+    border-radius: 50%;
+}
+
+.MostPopularTextTwo {
+    position: absolute;
+    width: 214px;
+    height: 59px;
+    left: 104px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+
+.MostPopularAvtorTwo {
+    position: absolute;
+    left: 32.7%;
+    right: 8.18%;
+    top: 82.22%;
+    bottom: 0%;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #54555E;
+}
+
+.FooterNewsLetter {
+    position: absolute;
+    width: 280px;
+    height: 129px;
+    left: 1012px;
+    top: 70px;
+}
+
+.FooterNewsLetterHeadr {
+    width: 237px;
+    height: 18px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.FooterNewsLetterText {
+    position: absolute;
+    width: 249px;
+    height: 20px;
+    left: 26px;
+    top: 44px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: #54555E;
+}
+
+.FooterIcon {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 45px;
+    font-family: 'FontAwesome';
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: capitalize;
+    color: #575961;
+}
+
+.FooterNewsButton {
+    position: absolute;
+    width: 280px;
+    height: 46px;
+    top: 83px;
+    background: #FFFFFF;
+    border: 0px solid #E3E4E8;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.YourMail {
+    position: absolute;
+    width: 71px;
+    height: 21px;
+    left: 10px;
+    top: 13px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: #54555E;
+}
+
+.FooterBtn {
+    position: absolute;
+    width: 81px;
+    height: 46px;
+    left: 199px;
+    background: #2D95E3;
+    box-shadow: 0px 2px 3px rgb(0 0 0 / 10%);
+    border-radius: 0px 5px 5px 0px;
+}
+
+.FooterOk {
+    position: absolute;
+    width: 19px;
+    height: 18px;
+    top: 14px;
+    left: 31px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+
+
+
+

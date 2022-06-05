@@ -1,0 +1,97 @@
+.hero_Two {
+    position: absolute;
+    width: 606px;
+    height: 182px;
+    left: 74px;
+    top: 164px;
+}
+
+.hero_baseTwo {
+    position: absolute;
+    width: 606px;
+    height: 182px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 3px rgb(0 0 0 / 10%);
+    border-radius: 5px;
+}
+
+.Hero_imgTwo {
+    position: absolute;
+    width: 303px;
+    height: 182px;
+    left: 303px;
+    top: 0px;
+    background: #171821;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.categoriesHero_Two {
+    position: absolute;
+    position: absolute;
+    width: 64px;
+    height: 24px;
+    left: 319px;
+    top: 142px;
+    background: #3E3EDD;
+    border-radius: 5px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.news_HeroTwo {
+    position: absolute;
+    width: 239px;
+    height: 66px;
+    left: 32px;
+    top: 32px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: -0.05em;
+    color: #171821;
+}
+
+.avtor_HeroTwo {
+    position: absolute;
+    width: 158px;
+    height: 31px;
+    left: 32px;
+    top: 114px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #83858F;
+}
+
+.InWorld {
+    position: absolute;
+    left: 17.19%;
+    right: 17.19%;
+    top: 29.17%;
+    bottom: 29.17%;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

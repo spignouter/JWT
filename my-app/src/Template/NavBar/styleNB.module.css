@@ -1,0 +1,187 @@
+.navbar {
+    background-color: darkcyan;
+    position: absolute;
+    width: 1366px;
+    height: 48px;
+    left: 0px;
+    top: 32px;
+}
+
+.Rectangle_nabar {
+    position: absolute;
+    width: 1366px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgb(0 0 0 / 10%);
+}
+
+.Baikal_info {
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 124px;
+    top: 7px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 34px;
+    color: #2AA9E6;
+}
+
+.menu_logo {
+    position: absolute;
+    width: 568px;
+    height: 18px;
+    left: 396px;
+    top: 15px;
+    border: 1px solid #2AA9E6;
+    box-sizing: border-box;
+}
+
+.home {
+    position: absolute;
+    left: 1.58%;
+    right: 84.3%;
+    top: 0%;
+    bottom: 0%;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #2AA9E6;
+}
+
+.publications {
+    position: absolute;
+    left: 17.9%;
+    right: 60.21%;
+    top: 0%;
+    bottom: 0%;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #2AA9E6;
+}
+
+.blogs {
+    position: absolute;
+    left: 41.15%;
+    right: 47.9%;
+    top: 0%;
+    bottom: 0%;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #2AA9E6;
+}
+
+.interesting {
+    position: absolute;
+    left: 57.32%;
+    right: 21.76%;
+    top: 0%;
+    bottom: 0%;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #2AA9E6;
+}
+
+.subscriptions {
+    position: absolute;
+    left: 79.87%;
+    right: 2.12%;
+    top: 0%;
+    bottom: 0%;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #2AA9E6;
+}
+
+.search_icon {
+    position: absolute;
+    left: 81.45%;
+    right: 13.91%;
+    top: 44.14%;
+    bottom: 41.44%;
+}
+
+.vector {
+    position: absolute;
+    left: 93.41%;
+    right: 5.42%;
+    top: 33.33%;
+    bottom: 33.33%;
+    background: #2AA9E6;
+}
+
+.open_search {
+    position: absolute;
+    visibility: hidden;
+    width: 345px;
+    height: 111px;
+    left: 947px;
+    top: 47px;
+}
+
+.search {
+    position: absolute;
+    width: 281px;
+    height: 46px;
+    left: 32px;
+    top: 33px;
+}
+
+.hamburger {
+    position: absolute;
+    width: 18px;
+    height: 12px;
+    left: 74px;
+    top: 18px;
+}
+
+.Line_3 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 100%;
+    bottom: 0%;
+    border: 2px solid #2AA9E6;
+}
+
+.Line_2 {
+    position: absolute;
+    left: 16.67%;
+    right: 0%;
+    top: 50%;
+    bottom: 50%;
+    border: 2px solid #2AA9E6;
+}
+
+.Line_1 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 100%;
+    border: 2px solid #2AA9E6;
+}
+

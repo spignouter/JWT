@@ -1,0 +1,94 @@
+.hero_One {
+    position: absolute;
+    width: 604px;
+    height: 562px;
+    left: 688px;
+    top: 164px;
+}
+
+.hero_baseOne {
+    position: absolute;
+    width: 604px;
+    height: 562px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 3px rgb(0 0 0 / 10%);
+    border-radius: 5px;
+}
+
+.hero_imgOne {
+    position: absolute;
+    width: 604px;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+    background: #171821;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.categoriesOne {
+    position: absolute;
+    width: 77px;
+    height: 24px;
+    left: 16px;
+    top: 322px;
+    background: #19C22A;
+    border-radius: 5px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.news_HeroOne {
+    position: absolute;
+    width: 540px;
+    height: 116px;
+    left: 32px;
+    top: 385px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: -0.05em;
+    color: #171821;
+}
+
+.avtor_HeroOne {
+    position: absolute;
+    width: 326px;
+    height: 12px;
+    left: 32px;
+    top: 518px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #83858F;
+}
+
+.InWorld {
+    position: absolute;
+    left: 17.19%;
+    right: 17.19%;
+    top: 29.17%;
+    bottom: 29.17%;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

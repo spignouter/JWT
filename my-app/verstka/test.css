@@ -1,0 +1,48 @@
+#MostPopularTwo{
+    position: absolute;
+    width: 318px;
+    height: 90px;
+    }
+    
+    #MostPopularEllipseTwo{
+    z-index: 1;
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    background: #171821;
+    border-radius: 50%;
+    top:42px;
+    }
+    
+    #MostPopularTextTwo{
+        position: absolute;
+        width: 214px;
+        height: 59px;
+        left: 104px;
+        top: 45px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 20px;
+        letter-spacing: -0.05em;
+        color: #FFFFFF;  
+    }
+    
+    #MostPopularAvtorTwo{
+        position: absolute;
+        left: 32.7%;
+        right: 8.18%;
+        top: 125.22%;
+        bottom: 0%;
+        
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 15px;
+        text-transform: uppercase;
+        
+        color: #54555E;   
+    }
+    
